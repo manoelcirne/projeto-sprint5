@@ -6,12 +6,15 @@ Dashboard para analisar dados de anúncios de vendas de carros de forma interati
 
 ## Funcionalidades
 Interface simples com dois botões que geram:
-- Visualização de histogramas
-- Visualização de gráficos de dispersão
+- Visualização de histograma
+- Visualização de gráfico de dispersão
 
 ## Tecnologias usadas
 - Python
 - Streamlit
 - Pandas
 - Plotly Express
+
+## Link do aplicativo web
+https://projeto-sprint5-cw8w.onrender.com/
 
